@@ -1,1 +1,4 @@
 data/*
+token
+sbatch_outputs/*
+myenv/*

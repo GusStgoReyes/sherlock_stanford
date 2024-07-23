@@ -11,7 +11,7 @@
 #SBATCH --mail-type=FAIL
 
 # Activate your virtual environment if needed
-# source /scratch/users/gustxsr/sherlock_stanford/myenv/bin/activate
+source /scratch/users/gustxsr/sherlock_stanford/myenv/bin/activate
 
 # Run your Python script
 python /scratch/users/gustxsr/sherlock_stanford/3_analysis_inefficient.py
